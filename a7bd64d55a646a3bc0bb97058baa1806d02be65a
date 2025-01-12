@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "70dbf75f_1bac1759",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-01-12T09:32:10Z",
+      "side": 1,
+      "message": "This is nonsense. Tipically, you only update copyrights where something is touched.",
+      "revId": "a7bd64d55a646a3bc0bb97058baa1806d02be65a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
