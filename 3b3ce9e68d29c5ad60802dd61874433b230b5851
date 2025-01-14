@@ -16,6 +16,24 @@
       "message": "why is this in your blob list",
       "revId": "3b3ce9e68d29c5ad60802dd61874433b230b5851",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bf28fd3c_b9e46b54",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2025-01-14T19:55:41Z",
+      "side": 1,
+      "message": "please be more specific, which lines",
+      "parentUuid": "ecce70af_15ec10d6",
+      "revId": "3b3ce9e68d29c5ad60802dd61874433b230b5851",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
