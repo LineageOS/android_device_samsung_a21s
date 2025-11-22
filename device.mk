@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+DEVICE_PATH := device/samsung/a21s
+
 # Inherit from the common tree
 $(call inherit-product, device/samsung/a21s-common/common.mk)
 
@@ -22,3 +24,7 @@ $(call inherit-product, vendor/samsung/a21s/a21s-vendor.mk)
 
 # Setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
+
+# NFC configuration
+PRODUCT_COPY_FILES += \
+    $(DEVICE_PATH)/configs/nfc/libnfc-sec-vendor.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-sec-vendor.conf
