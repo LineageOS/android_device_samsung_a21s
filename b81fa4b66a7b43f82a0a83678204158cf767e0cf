@@ -33,6 +33,24 @@
       "message": "Use LOCAL_PATH",
       "revId": "b81fa4b66a7b43f82a0a83678204158cf767e0cf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ad1cff95_aecc0f9f",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2025-11-23T09:35:19Z",
+      "side": 1,
+      "message": "Acknowledged, thanks",
+      "parentUuid": "34671be1_8188f61f",
+      "revId": "b81fa4b66a7b43f82a0a83678204158cf767e0cf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
