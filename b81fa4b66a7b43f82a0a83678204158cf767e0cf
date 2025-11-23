@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "13036668_7ad8a77c",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-11-23T07:56:26Z",
+      "side": 1,
+      "message": "Not needed",
+      "revId": "b81fa4b66a7b43f82a0a83678204158cf767e0cf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "34671be1_8188f61f",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-11-23T07:56:26Z",
+      "side": 1,
+      "message": "Use LOCAL_PATH",
+      "revId": "b81fa4b66a7b43f82a0a83678204158cf767e0cf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
